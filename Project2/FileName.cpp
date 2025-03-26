@@ -9,4 +9,6 @@ int main()
 	double kg = 0.0;
 	cin >> kg;
 	cout << kg << " kg" << endl;
+	cout << kg << " kg" << endl;
+	cout << kg << " kg" << endl;
 }
