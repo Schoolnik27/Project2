@@ -5,5 +5,5 @@ using namespace std;
 int main()
 {
 	cout << "Hi" << endl;
-	cout << "Hi" << endl;
+	cout << "Hi" << endl; ננננננננ
 }
