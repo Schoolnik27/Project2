@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Andrew Garfield" << endl; ..ככככ
+	cout << "Andrew Garfield" << endl; ..ככככמכמהמהכה
 	int watermelon = 28;
 	double kg = 0.0;
 	cin >> kg;
